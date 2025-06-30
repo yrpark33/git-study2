@@ -1,11 +1,7 @@
 package com.example.gitstudy2;
 
-public class C {
-
+public class F {
     public void test() {
 
-
-
     }
-
 }
